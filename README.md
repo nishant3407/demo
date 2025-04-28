@@ -1,4 +1,4 @@
 # demo
 This is my Git Repository
 <br>
-Author - Nishant Kumar
+Author - Nishant Kumar Tiwary
