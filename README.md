@@ -1,4 +1,9 @@
 # demo
 This is my Git Repository.
 <br>
-Author - Nishant Kumar Tiwary
+
+# Author
+ Nishant Tiwary
+
+ # Reg
+ 21010465007
